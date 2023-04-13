@@ -20,21 +20,21 @@
 
 ### Wireframe
 <br>Tela de login **[RN004]**
-<br>![Wireframe](wireframe1.png)
+<br>![Wireframe](./docs/wireframes/wireframe1.png)
 <br>Tela principal colaborador que **não** é do setor de **Manutenção** **[RN003]**,**[RN005],[RN005.1],[RN005.2]**
-<br>![Wireframe](wireframe2.png)
+<br>![Wireframe](./docs/wireframes/wireframe2.png)
 <br> Tela no formato Modal para abrir uma OS **[RN001]** e **[RN002]**
-<br>![Wireframe](wireframe7.png)
+<br>![Wireframe](./docs/wireframes/wireframe7.png)
 <br> Detalhe de uma OS concluida **[RN005.3]**
-<br>![Wireframe](wireframe3.png)
+<br>![Wireframe](./docs/wireframes/wireframe3.png)
 <br> Detalhe de uma OS aberta **[RN005.3]**
-<br>![Wireframe](wireframe4.png)
+<br>![Wireframe](./docs/wireframes/wireframe4.png)
 <br>Tela principal colaborador do setor de **Manutenção** **[RN006]**
-<br>![Wireframe](wireframe5.png)
+<br>![Wireframe](./docs/wireframes/wireframe5.png)
 <br>Tela principal colaborador do setor de **Manutenção** com OSs também abertas por ele próprio. **[RN001]**
-<br>![Wireframe](wireframe8.png)
+<br>![Wireframe](./docs/wireframes/wireframe8.png)
 <br>Detalhe de uma OS em execução com opção de adicionar comentário **[RN005.3]** botão concluir **[RN006.1]**.
-<br>![Wireframe](wireframe6.png)
+<br>![Wireframe](./docs/wireframes/wireframe6.png)
 ### Dados para importação **[RN008]**
 - colaboradores.csv
 ```csv
