@@ -1,14 +1,11 @@
 head
-  meta(charset='UTF-8')
-  title Ordens de Serviço
-  link(rel='stylesheet', href='style.css')
-  link(rel="shortcut icon", href="ico.png")
-  script(src="script.js")
+    meta(charset='UTF-8')
+    title Ordens de Serviço
+    link(rel='stylesheet', href='style.css')
+    link(rel="shortcut icon", href="ico.png")
+    script(src="script.js")
 body
-  main
-    h1= title
-    table
-      each linha in dados
-        tr
-          td=linha.id
-          td=linha.descricao
+    main
+        h1 Ordens de Serviço
+        p=JSON.stringify(colaborador)
+        p=JSON.stringify(executores)
